@@ -3,6 +3,10 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>our-web-app</groupId>
   <artifactId>Calculator</artifactId>
+  <configuration>
+        <source>6</source>
+        <target>1.6</target>
+    </configuration>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>Calculator Maven Webapp</name>
